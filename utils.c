@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * is_printable - determines if is printable
  * @c: Char to be determined.

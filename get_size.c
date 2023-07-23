@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * get_size - Entry point to calculate the size
  * @format: Formatted string
