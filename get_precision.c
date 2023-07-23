@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * get_precision - Entry to get the precision for printing
  * @format: Formatted strings
