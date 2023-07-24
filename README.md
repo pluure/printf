@@ -1,7 +1,7 @@
  Project to be done in teams of 2 people (your team: Luure Pugno, Wilson Agbley)
 
 
-1.Education is when you read the fine print. Experience is what you get if you don't.
+1. Education is when you read the fine print. Experience is what you get if you don't.
 
 2. With a face like mine, I do better in print.
 
