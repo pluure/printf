@@ -1,7 +1,6 @@
 #include "main.h"
 /***WRITE HANDLE***/
 
-
 /**
  * handle_write_char - Printing strings to handle writes
  * @c: character types.
@@ -94,14 +93,13 @@ int write_number(int is_negative, int ind, char buffer[],
  * @extra_c: Extra characters
  * Return: Number of printed chars.
  */
-int write_num(int ind, char buffer[],
-		int flags, int width, int prec,
+int write_num(int ind, char buffer[], int flags, int width, int prec,
 		int length, char padd, char extra_c)
 {
 	int i, padd_start = 1;
 
 	if (prec == 0 && ind == BUFF_SIZE - 2 && buffer[ind] == '0' && width == 0)
-		return (0); 
+		return (0);
 	if (prec == 0 && ind == BUFF_SIZE - 2 && buffer[ind] == '0')
 		buffer[ind] = padd = ' ';
 	if (prec > 0 && prec < length)
