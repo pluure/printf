@@ -27,6 +27,6 @@
 
 13. Print is the sharpest and the strongest weapon of our party.
 
-14. The flood of print has turned reading into a process of gulping rather than savoring
+14. The flood of print has turned reading into a process of gulping rather than savoring.
 
 15. . * All the above options work well together.
