@@ -126,7 +126,6 @@ int write_num(int ind, char buffer[], int flags, int width, int prec,
 			return (write(1, &buffer[1], i - 1) + write(1, &buffer[ind], length));
 		}
 		else if (!(flags & F_MINUS) && padd == '0')
-
 		{
 			if (extra_c)
 				buffer[--padd_start] = extra_c;
