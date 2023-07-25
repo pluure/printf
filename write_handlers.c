@@ -80,7 +80,6 @@ int write_number(int is_negative, int ind, char buffer[],
 				length, padd, extra_ch));
 }
 
-
 /**
  * write_num - a number using a buffer function
  * @ind: buffering index
