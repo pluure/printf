@@ -19,7 +19,7 @@
 
 9. Print some money and give it to us for the rain forests.
 
-10. The negative is the equivalent of the composer's score, and the print the performance
+10. The negative is the equivalent of the composer's score, and the print the performance.
 
 11. It's depressing when you're still around and your albums are out of print.
 
